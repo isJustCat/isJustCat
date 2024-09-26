@@ -8,7 +8,7 @@
 (the computer kind, not the human kind though!)
 <h3 align="left">Reach out to the cat:</h3>
 <p align="left">
-  Fediverse: https://corteximplant.net/@polygon<br>
+  Signal: polygon.23<br>
   Other means of contact are available only upon request
 </p>
 
