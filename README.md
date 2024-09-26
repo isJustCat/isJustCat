@@ -6,7 +6,7 @@
 - 💖 Feel free to: Ask for help, infodump, or just chitchat
 
 (the computer kind, not the human kind though!)
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach out to the cat:</h3>
 <p align="left">
   Fediverse: https://corteximplant.net/@polygon<br>
   Other means of contact are available only upon request
